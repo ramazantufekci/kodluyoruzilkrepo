@@ -1,3 +1,5 @@
+![Github Project İmage](https://github.com/ramazantufekci/kodluyoruzilkrepo/raw/main/repo.png)
+
 # Kodluyoruz Ilk Repo
 
 
